@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.card{
+   
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(209, 205, 200);
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    width: 300px;
+    padding-bottom: 20px;
+    height: 400px
+
+}
+
+.poster{
+    width:250px;
+    height: 280px;
+    
+}
+
+
+
+.title{
+    width: 290px;
+   
+}
+
+.hero{
+    height: 380px;
+}
+.votAvg{
+    margin: 20px;
+}
